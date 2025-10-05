@@ -25,8 +25,8 @@ The API takes an input image from a camera and predicts whether the waste is **w
 - 🧰 **Modular Python API**  
   Python scripts handle loading the model, predicting labels, and integrating with the hardware interface.
 
-- 🔄 **Integration-Ready**  
-  Can be plugged into robotic or mechanical systems for automatic sorting.
+- 🔄 **Integration**
+- Can be directly used with arduino controlled system
 
 ---
 
